@@ -1,0 +1,61 @@
+*{
+    margin:5px;
+    text-align: left;
+    margin-left: 50px;
+    
+}
+h1{
+    border: 5px double black;
+    padding-left: 200px;
+    
+}
+label {
+    display: inline;
+} 
+p{
+    display: inline;
+} 
+button{
+    background-color: #020c02; 
+    border: 1 px solid black;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: rgb(243, 247, 7);
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+  }
+.btn{
+    background-color: #0c0c0c;
+  }
+button{
+    margin-top: 10px;
+  }
+.abc{
+    color:black;
+}
+#para{
+    margin-left: 75px;
+}
+#name{
+    margin-left: 50px;
+}
+#k{
+    margin-left: 52px;
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+}
+#email{
+    margin-left: 51px; 
+}
